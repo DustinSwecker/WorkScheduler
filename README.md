@@ -2,7 +2,7 @@
 
 ## Wrote JavaScript for Workday Planner to save important to-dos.
 
-Considering that users oftentimes need to plan ahead and save important information for their workdays. A website was created to ease this by allowing the user to save important information inside text boxes which changed color based on the time of the day.
+Considering that users oftentimes need to plan ahead and save important information for their workdays, a website was created to ease this by allowing the user to save important information inside text boxes which changed color based on the time of the day.
 
 
 

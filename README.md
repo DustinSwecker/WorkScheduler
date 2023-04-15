@@ -14,7 +14,7 @@ N/A
 
 The site provides text boxes where text can be saved to local storage and retrieved later. It displays the current date in the top right corner. Additionally, the text boxes change colors based on whether the time they represent exists in the past, present, or future.
 
-![Work Scheduler](assets/WorkScheduler.png)
+![Work Scheduler](Assets/WorkScheduler.png)
 
 
 ## License

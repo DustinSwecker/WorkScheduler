@@ -1,4 +1,4 @@
-# Site to save your day to day to-dos
+# Site to save your daily to-dos
 
 ## Wrote JavaScript for Workday Planner to save important to-dos.
 
